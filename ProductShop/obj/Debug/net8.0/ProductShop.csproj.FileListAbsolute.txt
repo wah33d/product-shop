@@ -1,0 +1,17 @@
+C:\Users\A463670\source\repos\ProductShop\ProductShop\bin\Debug\net8.0\ProductShop.exe
+C:\Users\A463670\source\repos\ProductShop\ProductShop\bin\Debug\net8.0\ProductShop.deps.json
+C:\Users\A463670\source\repos\ProductShop\ProductShop\bin\Debug\net8.0\ProductShop.runtimeconfig.json
+C:\Users\A463670\source\repos\ProductShop\ProductShop\bin\Debug\net8.0\ProductShop.dll
+C:\Users\A463670\source\repos\ProductShop\ProductShop\bin\Debug\net8.0\ProductShop.pdb
+C:\Users\A463670\source\repos\ProductShop\ProductShop\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\A463670\source\repos\ProductShop\ProductShop\obj\Debug\net8.0\ProductShop.csproj.AssemblyReference.cache
+C:\Users\A463670\source\repos\ProductShop\ProductShop\obj\Debug\net8.0\ProductShop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\A463670\source\repos\ProductShop\ProductShop\obj\Debug\net8.0\ProductShop.AssemblyInfoInputs.cache
+C:\Users\A463670\source\repos\ProductShop\ProductShop\obj\Debug\net8.0\ProductShop.AssemblyInfo.cs
+C:\Users\A463670\source\repos\ProductShop\ProductShop\obj\Debug\net8.0\ProductShop.csproj.CoreCompileInputs.cache
+C:\Users\A463670\source\repos\ProductShop\ProductShop\obj\Debug\net8.0\ProductS.9D45F41D.Up2Date
+C:\Users\A463670\source\repos\ProductShop\ProductShop\obj\Debug\net8.0\ProductShop.dll
+C:\Users\A463670\source\repos\ProductShop\ProductShop\obj\Debug\net8.0\refint\ProductShop.dll
+C:\Users\A463670\source\repos\ProductShop\ProductShop\obj\Debug\net8.0\ProductShop.pdb
+C:\Users\A463670\source\repos\ProductShop\ProductShop\obj\Debug\net8.0\ProductShop.genruntimeconfig.cache
+C:\Users\A463670\source\repos\ProductShop\ProductShop\obj\Debug\net8.0\ref\ProductShop.dll
